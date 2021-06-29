@@ -1,7 +1,6 @@
-n1 = int(input('Escreva o número '))
+n1 = int(input('Insira o número (em metros!)'))
 
-dobr = n1*2
-trip = n1*3
-raiz = n1**(1/2)
+cent = n1*100
+mili = n1*1000
 
-print('Dobro: {} \nTriplo: {} \nRaiz: {} \n'.format(dobr,trip,raiz))
+print('Centímetros: {} Milímetros: {}'.format(cent,mili))
