@@ -51,28 +51,28 @@ Note: Even thought script title is in english, the text inside all scripts are i
 42. Type of triangle
 43. BMI
 44. Total price based on payment method
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53. 
-54. 
-55. 
-56. 
-57. 
-58. 
-59. 
-60. 
-61. 
-62. 
-63. 
-64. 
-65. 
-66. 
+45. Rock and Scissor against computer
+46. Emoji
+47. Even numbers to 51
+48. Sum of odd numbers to 501
+49. Custom times table
+50. Input even numbers sum (6 numbers)
+51. Arithmetic progression
+52. Prime numbers
+53. Palindrome testing
+54. How many are over 21 in a group
+55. Highest weight from input list
+56. Oldest man, average age, how many women under 20 from input group
+57. Validating input
+58. Guessing numbers, computer choice
+59. Simple calculator
+60. Factorial
+61. Custom arithmetic progression
+62. Custom length arithmetic progression
+63. Fibonacci sequence
+64. Custom sum, total entered numbers
+65. Highest and lowest number, average, custom amount
+66. Custom sum, number of typed numbers (While)
 67. 
 68. 
 69. 
