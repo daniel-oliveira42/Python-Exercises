@@ -73,25 +73,25 @@ Note: Even thought script title is in english, the text inside all scripts are i
 64. Custom sum, total entered numbers
 65. Highest and lowest number, average, custom amount
 66. Custom sum, number of typed numbers (While)
-67. 
-68. 
-69. 
-70. 
-71. 
-72. 
-73. 
-74. 
-75. 
-76. 
-77. 
-78. 
-79. 
-80. 
-81. 
-82. 
-83. 
-84. 
-85. 
-86. 
-87. 
-88. 
+67. Custom times table (While)
+68. Odds or evens against computer
+69. Gender, age, amount analysis (While)
+70. Insert products, analyze list
+71. ATM Machine
+72. Numbers written in full
+73. Team list analysis
+74. Random tuple analysis
+75. 4 number tuple analysis
+76. Formatting product list
+77. Vowel search in tuple
+78. Array number search
+79. Numbers array in order of insertion
+80. Append and insert
+81. Array length + colors
+82. Odd and even number arrays from input
+83. Expression parenthesis analysis
+84. Using list() + heaviest and lightest
+85. Sorting odds and evens directly from input
+86. Printing matrix
+87. Odd and even numbers in matrix + sum
+88. Lottery simulator
