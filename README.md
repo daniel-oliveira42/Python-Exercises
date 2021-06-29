@@ -4,7 +4,7 @@ Diversos problemas resolvidos com o intuito de reforçar o conhecimento de lógi
 
 Python programming logic exercises
 
-Note: Even thought script title is in english, the text inside the scripts are in portuguese, as it is my mother language.
+Note: Even thought script title is in english, the text inside all scripts are in portuguese, as it is my mother language.
 
 ## Índice (Index)
 1. Print "Hello word"
