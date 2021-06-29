@@ -30,27 +30,27 @@ Note: Even thought script title is in english, the text inside all scripts are i
 21. Playing MP3 files
 22. String analysis
 23. Integer analysis
-24. 
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 
-31. 
-32. 
-33. 
-34. 
-35. 
-36. 
-37. 
-38. 
-39. 
-40. 
-41. 
-42. 
-43. 
-44. 
+24. String manipulation
+25. Searching inside string
+26. Counting chars inside string + first and last position
+27. First and last name of input
+28. Guessing numbers
+29. Speed traffic ticket
+30. Odd or even
+31. Flying ticket price
+32. Simple leap year
+33. Highest and lowest value
+34. Conditional salary correction
+35. Possible triangles
+36. Loan conditions
+37. Hexadecimal, binary or octal input conversion
+38. Number comparison
+39. Military service age
+40. Passing or failing grades
+41. Age category for championship
+42. Type of triangle
+43. BMI
+44. Total price based on payment method
 45. 
 46. 
 47. 
